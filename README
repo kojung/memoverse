@@ -15,5 +15,5 @@ Installation
 
 > lein deps
 > lein uberjar
-> java -jar memoverse-1.0.jar
+> java -jar memoverse-1.0.0-standalone.jar
 

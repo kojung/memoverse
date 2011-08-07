@@ -17,13 +17,9 @@
 (def *called-from-main* (atom false))
 
 (defn- release-number
-  "Return the release number for this app. Use the information in the Manifest"
+  "Return the release number for this app."
   []
-  (try 
-   (if-let [release (.getSpecificationVersion (.getPackage memoverse.memoverse))]
-     release
-     "BETA")
-   (catch Exception _ "BETA")))
+  "1.0")
 
 (defvar *app-name* "MemoVerse")
 (defvar *header* "<html>
