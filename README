@@ -1,0 +1,14 @@
+Memoverse
+
+MemoVerse is a tool that helps you memorize Bible verses. MemoVerse has the following features:
+
+- User customizable Bible verse profile
+- "Practice mode" that lets user enter the missing words in the verse
+- Keeps track of the difficulty level achieved on a verse-by-verse level
+- Print the verses in Flash Cards for offline study
+- Allows one to memorize an entire passage or parts of a verse
+- Timer that keeps tracks how long it took to complete a given verse
+- Cross-platform. Runs on Windows, Mac OSX, Linux, and UNIX
+- Open sourced, and released under the MIT license
+
+
