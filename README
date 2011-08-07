@@ -11,4 +11,9 @@ MemoVerse is a tool that helps you memorize Bible verses. MemoVerse has the foll
 - Cross-platform. Runs on Windows, Mac OSX, Linux, and UNIX
 - Open sourced, and released under the MIT license
 
+Installation
+
+> lein deps
+> lein uberjar
+> java -jar memoverse-1.0.jar
 
